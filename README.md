@@ -47,7 +47,7 @@ This project was created to:
 
 <p align="center">
   <a href="./preview.png">
-  <img src="./preview.png" width="45%" />
+  <img src="./preview.png" height="400" />
   </a>  
 </p>
 
