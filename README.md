@@ -46,7 +46,9 @@ This project was created to:
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="./thumbnails/preview.png" width="80%" />
+  <a href="./preview.png">
+  <img src="./preview.png" width="45%" />
+  </a>  
 </p>
 
 
